@@ -39,7 +39,10 @@ reading through each comment.
 * Filippi’s Pizza
     * Website Link: https://www.yelp.com/biz/filippis-pizza-grotto-mission-valley-san-diego?osq=pizza
 * Tacos El G
-    * Website Link: https://www.yelp.com/biz/tacos-el-g-national-city-7?osq=Tacos 
+    * Website Link: https://www.yelp.com/biz/tacos-el-g-national-city-7?osq=Tacos
+## Video Presentations
+* Technical Presentation Link: https://youtu.be/5i5x7Iil0iI 
+* Business Presentation Link: https://youtu.be/3rDEFullhqw
 ## References 
 Albrecht, J., Ramachandran, S., & Winkler, C. (2020). Blueprints for text analytics using Python. O'Reilly.
 
